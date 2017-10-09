@@ -1,3 +1,5 @@
+This shit used to be awesome.
+
 # Pretweeting
 
 *Pretweeting is now open source!* All the code needed to deploy an instance of the game pretweeting is in this repository.
